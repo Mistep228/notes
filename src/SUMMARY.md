@@ -9,3 +9,4 @@
 - [Введение в программирование](./ProgIntro/ProgIntro.md)
 - [Алгоритмы и структуры данных](./Algorithms/Algorithms.md)
 - [Математическая Логика](./Logic/Logic.md)
+- [Дифференциальные уравнения](./Diffurs/Diffurs.md)
